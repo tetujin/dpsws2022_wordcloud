@@ -1,0 +1,83 @@
+1.	Agent Interaction in Ambient Intelligent Environments
+2.	アドホックネットワークにおけるエピデミックモデルを利用した更新データ配布方式
+3.	Mobility Aware Design of Services on Mobile Wireless Ad-hoc Networks
+4.	無線アドホックネットワークにおけるIEEE802.11 DCFのチャネル利用率の改善
+5.	モバイルアドホックネットワークを利用したP2Pアプリケーションの提案と検証
+6.	TDMA Slot Assignment Protocol Considering the Deviation of Traffic in Ad Hoc Sensor Networks
+7.	Window Policies for Movement Detection of the RA-RA scheme
+8.	A Notification System for the φ-Failure Detector
+9.	Flexible Multimedia Streaming Model in Heterogeneous Network
+10.	Concurrency Control in Multi-Role Association
+11.	IDSと連携した高速に伝播するワームのシグネチャ自動生成機構の設計と実装
+12.	AIR-NMSにおけるネットワーク障害切り分け機能の設計と実現
+13.	リアルタイム検出可能な動画向けモバイル電子透かし
+14.	アドホックネットワークにおける複製聞の一貫性管理について
+15.	セキュアOSと仮想マシンを利用した情報漏洩とウィルス侵入の防止
+16.	Smart u-Things - Challenging Real World Complexity
+17.	An Address Management Scheme in the Ubiquitous Computing Environment
+18.	Formation of Bluetooth Scatternet and Its Delay Analysis
+19.	A Real World Trading Oriented Market-driven Model for Negotiation Agent
+20.	地図作成学習におけるGPSと相対的位置情報利用の提案と評価
+21.	ユビキタスネットワーク環境における学習者のコンテクストに応じて個人化される学習支援システムの提案　ケーススタディー: ユビキタス学習机
+22.	教育用命令セットシミュレータの自動生成
+23.	無線LAN対応型携帯電話機の学内利用に向けた試行
+24.	ネットワーク情報を利用したインターネットエージェントの配置
+25.	エージェントを用いたSemantic Gridフレームワーク
+26.	不安定な通信環境におけるモバイルエージェント再送機能の有効性とその評価
+27.	テレビ会議で求められるエージェントシステム ヘルプデスクシステムへの応用
+28.	マルチエージェントシステムの効率的なトポロジー検出アルゴリズムの性能評価
+29.	携帯電話を想定したXML文書の高速DOM操作方式
+30.	ケータイアプリを利用したモブログの提案と検証
+31.	携帯電話用Javaアプリケーションメタデータ検索手法の提案と検証
+32.	Software Structures for Updating Mobile Phone Software
+33.	携帯電話におけるコンテンツ退避保護方式の実装と評価
+34.	Proposal of Distributed Intelligent Robot .Network Based on Mental Image Directed Semantic Theory
+35.	Zone-based Multi-path Routing for Congestion Control in the Internet
+36.	Validation of a Marketable Quality and Profitability Model for Japanese Corporation
+37.	SMIP: Striping Multimedia Communication Protocol for Large Scale Hierarchical Group
+38.	Implementation and Evaluation of Transactional Agents for Distributed System
+39.	モバイル・ソーシャルネットワークにおけるプロファイルを利用した問合せルーティング手法
+40.	無線ネットワークのための速度を考慮したファジィハンドオーバーアルゴリズムに関する研究
+41.	現実的なノードモビリティを考慮したワイヤレスネットワークシミュレーションの並列実行
+42.	センサネットワークのためのファジィ理論を利用した省電力のアルゴリズムに関する研究
+43.	Shadow Cluster Conceptを利用した無線ネットワークのためのファジィ接続制御に
+44.	位置情報サービスにおけるユーザの位置追跡可能性の評価手法
+45.	P2Pデータ共有技術を活用したWebコンテンツの分散管理
+46.	Pure-P2Pネットワークを用いたユーザ指向型のストリーミングリレーシステムの提案
+47.	階層型アクセス制限機能による公開型セキュアブックマーク機能の提案と実装
+48.	P2MVOD:ピア・ツー・ピア型モバイル・ビデオ・オンデマンド
+49.	MapWiki:共有地図を用いたユビキタスコンテンツ流通環境
+50.	コンテンツ識別のための特徴量抽出手法に関する一考察
+51.	ユーザ指向ストリーミングサービスのための映像の主観品質と映像コンテンツの関係を利用した映像分類手法
+52.	半球形スクリーンを用いた分散レンダリングシステム
+53.	デザインパターンの物理的特徴量を用いた感性検索法の提案
+54.	BSD UNIXにおけるover Gbpsネットワーク処理性能の向上
+55.	パケットマペット：パケットの特性に基づく格付け手法の提案
+56.	UPnP-IGDを応用したIPSバイパス手法の提案と実装
+57.	MCMCにおけるやさしいコミュニケーションを目指した情動コントロール支援システムの提案
+58.	メールヘッダー情報を利用した同報先推薦及び,誤送信防止方式の提案
+59.	MDAと連携した組み込みソフトウェア開発における仕様要件分析法
+60.	ブログ型デジタルポートフォリオの検討
+61.	Web適応のためのユーザプロファイルの自動生成方式
+62.	Convergence Property in Web Server with Heavy-tailed Distribution
+63.	視覚障害者と晴顔者のための分散環境を活用したKJ法支援システム
+64.	Webサービス連携のためのフロー記述方式
+65.	ビジネスプロセスモデリングと実行可能なモデルを基盤とした情報システム設計手法とその評価
+66.	機械の心（感情認識から心理解析まで）
+67.	視線はどこまで興味を反映するか -インタラクティブデジタルシネマにおける興味抽出のために-
+68.	通信システムにおけるカオスとコード
+69.	超高品質通信技術を基盤とする次世代インターネット技術の提案
+70.	アドホックネットワークにおけるネットワークの絞り込みのための効率的なトポロジー検出アルゴリズム
+71.	ソーシャルネットワークを活用した社内コミュニケーション支援システムの提案
+72.	サービス指向グルーピング機構を用いたユーザ手動ネットワークの構築
+73.	伝送誤りを考慮したUDP環境下におけるIEEE802.11DCFのACK性能評価
+74.	A modified Network Value Model based on Reed's Law and its Application to Technology Evaluation
+75.	Unstructured P2P 環境に適したデータ管理方式
+76.	複数の順序情報を用いたコンテンツ識別手法
+77.	能動的情報資源の概念を用いた知識検索支援システム
+78.	既存のメール分類機構の組み合わせを可能にする機構の提案
+79.	微量元素による農産物の産地判別システムにおけるSPHによる絞り込み
+80.	A Parallel GNFS Algorithm with Reliable Look Ahead Block Lanczos for Integer Factorization
+81.	Opportunities for Parallel/Distributed Computing in Surgery
+82.	Persistent Computing: What is it and Why Study it?
+83.	Inducing Multivariate Decision Trees Quickly and Effectivel

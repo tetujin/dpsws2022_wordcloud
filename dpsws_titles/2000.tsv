@@ -1,0 +1,46 @@
+1.	分散マルチメディアデータベースのための感性検索システムの提案
+2.	Appraising the Communication Performance of a DSM Cluster with a Low-level Application Programming Interface
+3.	カプセル間通信による情報カプセル整理機構の検討
+4.	Consistent Global Checkpoints in Multimedia Network Systems
+5.	Local Majority Coterieとそれを用いた資源配分の為の分散アルゴリズム
+6.	メディア変換機構を提供する分散永続オブジェクトシステム
+7.	Server-based Routing for Internet over Satellite Links
+8.	Javaを用いた動画配信カプセルの実装
+9.	価格交渉のモデル化とソフトウエアエージェント機能による実装
+10.	ファイアウォール環境のための双方向オブジェクト通信機構 ROOFの実装と評価
+11.	ホームネットワークとパブリックネットワーク間 連携サービスネットワーキングアーキテクチャ
+12.	協調サーチエンジンにおける継続検索のための先読みキャッシュ方式
+13.	動的ネットワーキングにおける適応型経路制御機構の設計
+14.	リモートディスプレイ環境におけるWWWブラウジングシステムのアクセス機能の拡張について
+15.	Replica Management in Object-based Systems
+16.	知識状態の計算による通信プロトコル記述法の多点間通信への拡張
+17.	多経路制御面型マルチキャストの設計と実装に関する考察
+18.	Group Protocol for Multimedia Objects in Distributed Object-based Systems
+19.	グループ移動のための移動体位置登録方式
+20.	Causally Ordered Delivery of Multimedia Objects
+21.	トラヒック監視ツールを用いたイントラネットの診断方式
+22.	前方誤り訂正による損失パケット回復のインターネットマルチメディア転送への応用
+23.	On Detecting Congestion Signals from Relative One-Way Delay
+24.	多配送層フレームワークにおける品質制御可能ネットワークモデルとMPLSを用いた実現手法に関する考察
+25.	MPLS実装AYAMEにおけるパケット転送機構の設計および実装
+26.	パスベースなIPパフォーマンス評価手法の提案
+27.	ネットワーク情報を収集・加工・提供するシステムNIWHの構成とその試作
+28.	インターネットにおけるend-to-endパフォーマンス測定解析システムのフレームワーク
+29.	やわらかいマルチメディアシステムにおける移動エージェントを利用したQoS保証機能
+30.	QoSを考慮したラジコンカーのネットワーク制御
+31.	遺伝的アルゴリズムを用いた帯域幅割当における分散アルゴリズムの設計 -ノード障害への対応-
+32.	協調バックグラウンドタスクスペースに関する検討
+33.	デジタル伝統工芸システムのプレゼンテーション方法の検討
+34.	エージェントを用いたパーソナル・ラーニング・コースの構成法の提案
+35.	エージェントを用いて学習者状況に応じるコース構成・提供法の提案
+36.	ギガビットネットワークを利用した遠隔地高精細画像の伝送実験
+37.	高品質メディアのIP転送システムの実装と評価
+38.	大量同時コンテンツ配信システム VideoDome / InterDome
+39.	超高速ネットワーク利用によるCATV間連携について
+40.	An Adaptive Ring Access Protocol for Super High-speed Networks
+41.	A Fuzzy Equivalent Capacity Estimator for Bandwidth Allocation in High-Speed Networks
+42.	無線通信を主体とした防災・災害情報ネットワークシステム
+43.	個に応じた教育のための教育支援環境の提案
+44.	ギガビットネットワークを利用した遠隔コンビュータ演習指導支援システムの設計
+45.	スケーラブルなWWW情報収集ロボッ卜の設計と実装
+46.	モバイルモパイルエージェントによる個人旅行支援システム"TravelGirl"
